@@ -1,0 +1,68 @@
+body {
+    background:#60cbc7;
+    font-family: sans-serif;
+    margin: 0px;
+}    
+
+header{
+    margin: 0;
+}
+header h1{ 
+    background-color: coral;
+    width: 100%;
+    font-size: 85px;
+    margin: 0 0 0 0;
+    text-align: center;
+    padding: 0;
+}
+.slogan{
+    font-size:25px;
+    margin: 0;
+    text-align: center
+}
+nav ul {
+    display: inline;
+    margin: 0;
+}
+nav ul li {
+    display: inline-block;
+    list-style-type:none;
+    margin: 1.2%;
+    width: 22%;
+}
+nav ul li a{
+    color:coral;
+    font-family: arial;
+    font-weight: 800;
+}
+ul {
+    background: #666666;
+    margin:  0 0 0;
+    text-align: center;
+    padding: 5px 20px 5px 20px;
+    font-size: 20;
+}
+h2{
+    text-align: center
+    
+}
+
+#welcome{
+    color: black;
+}
+.bullets{
+    background-color: coral;
+    list-style:none;
+    width: 25%;
+    margin-left: 36%
+        
+
+}
+footer{
+    clear: both
+}
+
+
+
+
+
