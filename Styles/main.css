@@ -93,7 +93,7 @@ h2{
     list-style:none;
     width: 25%;
     margin-left: 37.5%;
-    font-size: 30
+    font-size: 30,
 }
 
 .contact{
@@ -103,12 +103,12 @@ h2{
 .text {
     
     color: coral;
-    font-size: 45px
+    font-size: 45px;
     
 }
         
     .slider{
-            overflow: ;
+            overflow:hidden;
             height: 450px;
             
         }
@@ -120,9 +120,10 @@ h2{
     
     .slider figure img{
        
-        width: 100%;
+        width: 20%;
         float: center;
         margin: 0;
+        left: 0;
         text-align: left;
         font-size: 0;
         animation: 20s slider infinite;  
